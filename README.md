@@ -10,10 +10,10 @@ The live game data is received via the League Client API that  provides a method
 
 The use of the application is summarized in two interfaces: hub and live game.
 - Hub: Show game data information about a single player. Such as the player rank and his winrate ratio or the last 20 games played from him with his statistics.
-![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/hub.png)
+  + ![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/hub.png)
 - Game: Show the live game data, which helps the player to monitorize his statistics.
-![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/match-tab.png)
-![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/stats.png)
+  + ![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/match-tab.png)
+ + ![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/stats.png)
 ## Features
 
 - YourLOLassistant detects when the game starts and take you to the live game interface. 
