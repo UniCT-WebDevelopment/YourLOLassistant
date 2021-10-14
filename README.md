@@ -28,7 +28,7 @@ The use of the application is summarized in two interfaces: hub and live game.
   + ``` $ npm install electron-packager -g ``` 
 - Install Electron-forge:
   + ``` npm install -g @electron-forge/cli ```
-## Run
+## Build & Run
 
 Starting out the application is really easy. First of all, clone the project repository:
 
