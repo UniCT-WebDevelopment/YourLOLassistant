@@ -25,7 +25,9 @@ The use of the application is summarized in two interfaces: hub and live game.
 
 - Install [NodeJS](https://nodejs.org/en/). I recommend that you use the latest LTS version available.
 - Install Electron: 
-  + ``` npm install --save-dev electron ``` 
+  + ``` $ npm install electron-packager -g ``` 
+- Install Electron-forge:
+  + ``` npm install -g @electron-forge/cli ```
 ## Run
 
 Starting out the application is really easy. First of all, clone the project repository:
@@ -34,8 +36,9 @@ Starting out the application is really easy. First of all, clone the project rep
   + ```$ git clone https://github.com/iByrs/yourLOLassistant.git ```
   + ```$ cd yourLOLassistant```
 - Build your app
-  + ``` $ npm run make``` 
-- ENJOY!
+  + If you installed forge: ``` $ npm run make``` 
+- Or just:
+  + ```npm start```
 
 ## Note to read before running the application:
 There are small steps you must do before running the application,
