@@ -13,7 +13,7 @@ The use of the application is summarized in two interfaces: hub and live game.
   + ![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/hub.png)
 - Game: Show the live game data, which helps the player to monitorize his statistics.
   + ![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/match-tab.png)
- + ![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/stats.png)
+  + ![alt text](https://github.com/UniCT-WebDevelopment/YourLOLassistant/blob/main/docs/stats.png)
 ## Features
 
 - YourLOLassistant detects when the game starts and take you to the live game interface. 
