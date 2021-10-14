@@ -30,8 +30,7 @@ The use of the application is summarized in two interfaces: hub and live game.
   + ``` npm install -g @electron-forge/cli ```
 ## Build & Run
 
-Starting out the application is really easy. First of all, clone the project repository:
-
+Starting out the application is really easy. First of all:
 - Cloning and change directory:
   + ```$ git clone https://github.com/iByrs/yourLOLassistant.git ```
   + ```$ cd yourLOLassistant```
