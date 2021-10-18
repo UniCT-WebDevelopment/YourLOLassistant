@@ -25,7 +25,7 @@ The use of the application is summarized in two interfaces: hub and live game.
 
 - Install [NodeJS](https://nodejs.org/en/). I recommend that you use the latest LTS version available.
 - Install Electron: 
-  + ``` $ npm install electron -g
+  + ``` $ npm install electron -g ``` 
 - Install Electron-forge:
   + ``` $ npm install -g electron-forge ```
 ## Build & Run
